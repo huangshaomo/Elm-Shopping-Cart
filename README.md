@@ -22,6 +22,7 @@
 ![Image text](https://github.com/huangshaomo/photo/blob/master/elm-18.png)
 ![Image text](https://github.com/huangshaomo/photo/blob/master/elm-19.png)
 ![Image text](https://github.com/huangshaomo/photo/blob/master/elm-20.png)
+![Image text](https://github.com/huangshaomo/photo/blob/master/elm-21.png)
 
 
 ## Project setup
